@@ -29,6 +29,15 @@ article{
     font-size: 18px;
     color: black;
 }
+article li {
+     list-style-type: none;
+     list-style-position: inside;
+     border: 4px solid #000;
+     margin: 8px 0;
+     padding: 2px;
+     height:38px;
+     width: 400px;
+}
 article p{
     float : center;
 }
